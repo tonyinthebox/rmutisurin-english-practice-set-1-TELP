@@ -1,0 +1,7 @@
+{
+  "tests": [
+    "setA-full",
+    "setA-listening",
+    "setA-reading"
+  ]
+}

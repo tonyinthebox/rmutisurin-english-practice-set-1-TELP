@@ -1,0 +1,11 @@
+{
+  "id": "setA-full",
+  "title": "Practice Set A – Full Test",
+  "description": "ข้อสอบคู่ขนานแนว TELP เต็มชุด 90 ข้อ: Listening (ข้อ 1–50) และ Reading (ข้อ 51–90) จับเวลารวม",
+  "level": "A2–B1",
+  "timeLimitMinutes": 90,
+  "includes": [
+    "setA-listening",
+    "setA-reading"
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "id": "setA-reading",
+  "title": "Practice Set A – Reading",
+  "description": "ข้อสอบคู่ขนานแนว TELP 40 ข้อ (ข้อ 51–90): Incomplete Sentences 14 ข้อ, Text Completion 8 ข้อ, Reading Comprehension 18 ข้อ",
+  "level": "A2–B1",
+  "timeLimitMinutes": 45,
+  "numberOffset": 50,
+  "sections": [
+    {
+      "id": "incomplete",
+      "title": "Incomplete Sentences",
+      "instructions": "เลือกคำหรือวลีที่เติมในช่องว่างแล้วได้ประโยคที่ถูกต้องที่สุด",
+      "groups": [
+        {
+          "id": "sentences",
+          "questions": [
+            {
+              "id": "R51",
+              "prompt": "All visitors must _______ at the front desk before entering the factory.",
+              "options": [
+                "register",
+                "regret",
+                "regard",
+                "retire"
+              ],
+              "answer": 0,
+              "explanation": "register = ลงทะเบียน เหมาะกับการเข้าโรงงาน ตัวลวงหน้าตาคล้ายกัน: regret = เสียใจ, regard = ถือว่า, retire = เกษียณ"
+            },
+            {
+              "id": "R52",
+              "prompt": "Online banking has brought a _______ change to the way people manage their money.",
+              "options": [
+                "reluctant",
+                "regrettable",
+                "remarkable",
+                "remote"
+              ],
+              "answer": 2,
+              "explanation": "ต้องการ adjective ความหมายบวกขยาย change remarkable = โดดเด่น น่าทึ่ง reluctant = ไม่เต็มใจ (ใช้กับคน) regrettable = น่าเสียดาย remote = ห่างไกล"
+            },
+            {
+              "id": "R53",
+              "prompt": "This year, the annual staff _______ will be held at a hotel by the river.",
+              "options": [
+                "election",
+                "party",
+                "council",
+                "invitation"
+              ],
+              "answer": 1,
+              "explanation": "staff party = งานเลี้ยงพนักงาน จัดที่โรงแรมได้ election = การเลือกตั้ง council = สภา invitation = คำเชิญ (ไม่ได้ \"จัด\" ที่โรงแรม)"
+            },
+            {
+              "id": "R54",
+              "prompt": "The new coffee machine is _______ popular that there is always a line in front of it.",
+              "options": [
+                "such",
+                "so",
+                "too",
+                "very"
+              ],
+              "answer": 1,
+              "explanation": "so + adjective + that ช่องว่างตามด้วย popular (adjective) จึงใช้ so ส่วน such ใช้กับคำนาม เช่น such a popular machine that"
+            },
+            {
+              "id": "R55",
+              "prompt": "_______ the bad weather, the outdoor concert was a great success.",
+              "options": [
+                "Although",
+                "Because of",
+                "Unless",
+                "Despite"
+              ],
+              "answer": 3,
+              "explanation": "สองส่วนขัดแย้งกัน (อากาศแย่ แต่คอนเสิร์ตสำเร็จ) และตามด้วยคำนาม จึงใช้ Despite + noun Although ต้องตามด้วยประโยค Because of ให้ความหมายเป็นเหตุผล"
+            },
+            {
+              "id": "R56",
+              "prompt": "Our manager is very pleased _______ the results of the new marketing campaign.",
+              "options": [
+                "with",
+                "at",
+                "on",
+                "of"
+              ],
+              "answer": 0,
+              "explanation": "pleased with = พอใจกับ... เป็นคู่ adjective + preposition ที่ต้องจำ"
+            },
+            {
+              "id": "R57",
+              "prompt": "Please keep your receipt in case you need to _______ the item for a different size.",
+              "options": [
+                "exhibit",
+                "exclude",
+                "exchange",
+                "expire"
+              ],
+              "answer": 2,
+              "explanation": "exchange = เปลี่ยนสินค้า (for a different size = เป็นไซซ์อื่น) exhibit = จัดแสดง exclude = ไม่รวม expire = หมดอายุ"
+            },
+            {
+              "id": "R58",
+              "prompt": "Pedro saves part of his salary every month _______ he can buy a house next year.",
+              "options": [
+                "because",
+                "unless",
+                "although",
+                "so that"
+              ],
+              "answer": 3,
+              "explanation": "so that = เพื่อที่จะ บอกจุดประสงค์ (เก็บเงินเพื่อซื้อบ้าน) because บอกเหตุผล unless = เว้นแต่ although = แม้ว่า"
+            },
+            {
+              "id": "R59",
+              "prompt": "All employees must arrive at the meeting room _______ 8:45 a.m.",
+              "options": [
+                "until",
+                "by",
+                "since",
+                "during"
+              ],
+              "answer": 1,
+              "explanation": "by + เวลา = ไม่เกินเวลา... ใช้กับการกระทำที่เกิดครั้งเดียว (arrive) until ใช้กับการกระทำต่อเนื่อง since ใช้กับ Perfect Tense during ตามด้วยช่วงเวลา"
+            },
+            {
+              "id": "R60",
+              "prompt": "Please _______ your application form to the human resources office by Friday.",
+              "options": [
+                "submit",
+                "attend",
+                "perform",
+                "explain"
+              ],
+              "answer": 0,
+              "explanation": "submit ... to = ยื่นส่ง... ให้ attend = เข้าร่วม perform = แสดง/ปฏิบัติ explain = อธิบาย"
+            },
+            {
+              "id": "R61",
+              "prompt": "The manager asked me to write a short _______ of the customer's complaint.",
+              "options": [
+                "information",
+                "advice",
+                "summary",
+                "equipment"
+              ],
+              "answer": 2,
+              "explanation": "มี a short ข้างหน้า จึงต้องเป็นนามนับได้ summary = บทสรุป ตัวลวงอีกสามคำเป็นนามนับไม่ได้ ใช้กับ a ไม่ได้"
+            },
+            {
+              "id": "R62",
+              "prompt": "The hotel guest complained _______ the noise from the street.",
+              "options": [
+                "with",
+                "at",
+                "on",
+                "about"
+              ],
+              "answer": 3,
+              "explanation": "complain about = บ่นเรื่อง... (complain to + คน)"
+            },
+            {
+              "id": "R63",
+              "prompt": "Thanks to the _______ advertising campaign, sales doubled in only three months.",
+              "options": [
+                "successful",
+                "success",
+                "succeed",
+                "successfully"
+              ],
+              "answer": 0,
+              "explanation": "ช่องว่างอยู่ระหว่าง the กับคำนาม (advertising campaign) ต้องเป็น adjective จึงใช้ successful success เป็นนาม succeed เป็นกริยา successfully เป็น adverb"
+            },
+            {
+              "id": "R64",
+              "prompt": "The staff member to _______ you should send your report is Ms. Priya Shah.",
+              "options": [
+                "who",
+                "whom",
+                "which",
+                "whose"
+              ],
+              "answer": 1,
+              "explanation": "หลัง preposition (to) ที่อ้างถึงคนต้องใช้ whom ห้ามใช้ who ตามหลัง preposition ส่วน which ใช้กับสิ่งของ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-completion",
+      "title": "Text Completion",
+      "instructions": "อ่านข้อความแล้วเลือกคำที่เหมาะสมที่สุดเติมในช่องว่างที่มีหมายเลขกำกับ",
+      "groups": [
+        {
+          "id": "restaurant",
+          "label": "Announcement",
+          "questions": [
+            {
+              "id": "R65",
+              "prompt": "Choose the best option for blank (65).",
+              "options": [
+                "will be",
+                "has been",
+                "being",
+                "was"
+              ],
+              "answer": 0,
+              "explanation": "ร้านใหม่ยังไม่เปิด (เปิดวันเสาร์ที่ 7 มิถุนายน) จึงใช้อนาคต will be ส่วน being ไม่ใช่กริยาแท้"
+            },
+            {
+              "id": "R66",
+              "prompt": "Choose the best option for blank (66).",
+              "options": [
+                "demonstrate",
+                "demonstrator",
+                "demonstrating",
+                "demonstrations"
+              ],
+              "answer": 3,
+              "explanation": "ช่องว่างอยู่ในรายการคำนาม free desserts, cooking ___, and a lucky draw ต้องเป็นนามพหูพจน์ cooking demonstrations = การสาธิตทำอาหาร demonstrator เป็นนามนับได้ ต้องมี a หรือเติม -s"
+            },
+            {
+              "id": "R67",
+              "prompt": "Choose the best option for blank (67).",
+              "options": [
+                "reception",
+                "reservation",
+                "resolution",
+                "receipt"
+              ],
+              "answer": 1,
+              "explanation": "make a reservation = จองโต๊ะ reception = แผนกต้อนรับ resolution = มติ/ข้อตกลงใจ receipt = ใบเสร็จ (ไม่ใช้กับ make)"
+            },
+            {
+              "id": "R68",
+              "prompt": "Choose the best option for blank (68).",
+              "options": [
+                "medical",
+                "legal",
+                "business",
+                "political"
+              ],
+              "answer": 2,
+              "explanation": "family and business celebrations = งานฉลองของครอบครัวและงานบริษัท ซึ่งเข้ากับร้านอาหาร ตัวลวงอื่นไม่เกี่ยวกับงานเลี้ยง"
+            }
+          ],
+          "passage": "Lotus Garden Restaurant is happy to announce the opening of its second location at 45 River Road, across from Central Park.\n\nLike our first restaurant, the new Lotus Garden __(65)__ open seven days a week from 11:00 A.M. to 10:00 P.M., serving the same fresh, home-style Thai food that our customers love.\n\nPlease join us for our opening day on Saturday, June 7. There will be free desserts, cooking __(66)__, and a lucky draw with great prizes.\n\nCustomers who make a __(67)__ for a table during opening week will receive 20% off their bill.\n\nLotus Garden: the perfect place for all your family and __(68)__ celebrations."
+        },
+        {
+          "id": "hotels",
+          "label": "News Article",
+          "questions": [
+            {
+              "id": "R69",
+              "prompt": "Choose the best option for blank (69).",
+              "options": [
+                "Tourism",
+                "Mining",
+                "Fishing",
+                "Banking"
+              ],
+              "answer": 0,
+              "explanation": "เนื้อหาทั้งหมดพูดถึงโรงแรม นักท่องเที่ยว และเที่ยวบิน จึงเป็นอุตสาหกรรมการท่องเที่ยว"
+            },
+            {
+              "id": "R70",
+              "prompt": "Choose the best option for blank (70).",
+              "options": [
+                "of",
+                "by",
+                "at",
+                "with"
+              ],
+              "answer": 3,
+              "explanation": "compared with/to = เมื่อเทียบกับ"
+            },
+            {
+              "id": "R71",
+              "prompt": "Choose the best option for blank (71).",
+              "options": [
+                "expenses",
+                "revenue",
+                "losses",
+                "complaints"
+              ],
+              "answer": 1,
+              "explanation": "บริษัทหวังจะเพิ่ม revenue (รายได้) ด้วยการเปิดโรงแรมเพิ่ม ตัวลวงทั้งสามเป็นสิ่งที่บริษัทไม่อยากเพิ่ม"
+            },
+            {
+              "id": "R72",
+              "prompt": "Choose the best option for blank (72).",
+              "options": [
+                "expense",
+                "expensively",
+                "expensive",
+                "expend"
+              ],
+              "answer": 2,
+              "explanation": "less ___ ขยายคำนาม travel จึงต้องเป็น adjective (more comfortable and less expensive) expense เป็นนาม expensively เป็น adverb expend เป็นกริยา"
+            }
+          ],
+          "passage": "VISITORS RETURN TO __(69)__ INDUSTRY\n\nSunrise Hotels reported that its hotels were 85% full during the third quarter, compared __(70)__ only 60% during the same period last year. This was the company's best quarter since it opened its first hotel ten years ago.\n\nThe company's year-end report says that international visitors now make up almost half of its guests. Sunrise hopes to further increase its __(71)__ next year by opening two new hotels in the south of the country.\n\nAir travel has also recovered. SkyBlue Airlines added four new routes this year, but the airline says high fuel prices are still a problem.\n\n\"We are working hard to make air travel more comfortable and less __(72)__ for families,\" said Wei Chen, SkyBlue's sales director."
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "title": "Reading Comprehension",
+      "instructions": "อ่านข้อความแล้วตอบคำถาม",
+      "groups": [
+        {
+          "id": "mall",
+          "label": "Notice",
+          "questions": [
+            {
+              "id": "R73",
+              "prompt": "Where can you charge your phone?",
+              "options": [
+                "Floor 1",
+                "Floor 3",
+                "Floor 4",
+                "Floor 5"
+              ],
+              "answer": 2,
+              "explanation": "ที่ชาร์จโทรศัพท์มีใน Customer Lounge ซึ่งอยู่ชั้น 2, 4 และ 6 ตัวลวง Floor 3 (Book Corner Café) มีแค่ Wi-Fi ไม่มีที่ชาร์จ"
+            },
+            {
+              "id": "R74",
+              "prompt": "What is NOT available in the Customer Lounges?",
+              "options": [
+                "Free Wi-Fi",
+                "Lockers",
+                "Baby-changing rooms",
+                "Printing services"
+              ],
+              "answer": 3,
+              "explanation": "คำถาม NOT: ตัดสิ่งที่มีในห้องรับรองออก (Wi-Fi, lockers, baby-changing rooms) จะเหลือ printing ที่ไม่ได้กล่าวถึง"
+            },
+            {
+              "id": "R75",
+              "prompt": "What can you get on every floor?",
+              "options": [
+                "Restaurants",
+                "Floor maps",
+                "Customer Lounges",
+                "Free Wi-Fi"
+              ],
+              "answer": 1,
+              "explanation": "Information counters on every floor provide floor maps ตัวลวง Restaurants ผิดเพราะไม่มีที่ชั้น 1 (every floor except Floor 1)"
+            }
+          ],
+          "passage": "CITY PLAZA SHOPPING MALL — CUSTOMER SERVICES\n\n• Customer Lounges are located on Floors 2, 4, and 6. Free Wi-Fi, phone-charging stations, lockers, and baby-changing rooms are available in all lounges.\n\n• Restaurants can be found on every floor except Floor 1. A large food court is located on Floor 5. The Book Corner Café on Floor 3 serves coffee and cakes and offers free Wi-Fi for customers.\n\n• Information counters on every floor provide free floor maps and parking tickets."
+        },
+        {
+          "id": "water",
+          "label": "Public Notice",
+          "questions": [
+            {
+              "id": "R76",
+              "prompt": "Why will the water be turned off?",
+              "options": [
+                "Pipes need to be repaired.",
+                "The water is not clean.",
+                "A new road is being built.",
+                "Residents did not pay their bills."
+              ],
+              "answer": 0,
+              "explanation": "Due to pipe repairs on Thetsaban 1 Road ตัวลวง road หลอกจากชื่อถนน"
+            },
+            {
+              "id": "R77",
+              "prompt": "Who issued this notice?",
+              "options": [
+                "A private company",
+                "The police",
+                "A hospital",
+                "The city waterworks"
+              ],
+              "answer": 3,
+              "explanation": "ผู้ออกประกาศคือ Surin Municipal Waterworks = การประปาเทศบาล (municipal = ของเมือง/เทศบาล)"
+            },
+            {
+              "id": "R78",
+              "prompt": "Which address will NOT be affected?",
+              "options": [
+                "Soi 5",
+                "Soi 9",
+                "Soi 14",
+                "Soi 11"
+              ],
+              "answer": 2,
+              "explanation": "พื้นที่ที่น้ำไม่ไหลคือระหว่าง Soi 4 ถึง Soi 12 ซอย 14 อยู่นอกช่วง ข้ออื่นอยู่ในช่วงทั้งหมด"
+            }
+          ],
+          "passage": "SURIN MUNICIPAL WATERWORKS\nWATER SUPPLY INTERRUPTION\n\nDue to pipe repairs on Thetsaban 1 Road, the water supply will be turned off in the area between Soi 4 and Soi 12 from 9:00 A.M. to 3:00 P.M. on Tuesday, November 18.\n\nResidents are advised to store enough water for the day in advance. Water should return to normal by 4:00 P.M.\n\nWe apologize for any inconvenience."
+        },
+        {
+          "id": "phones",
+          "label": "Article",
+          "questions": [
+            {
+              "id": "R79",
+              "prompt": "What is this article mainly about?",
+              "options": [
+                "The history of mobile phones",
+                "The value of old mobile phones to collectors",
+                "How Kenji Mori became famous",
+                "How to repair old phones"
+              ],
+              "answer": 1,
+              "explanation": "บทความพูดถึงว่าโทรศัพท์เก่ามีมูลค่าสำหรับนักสะสม ตัวลวง Kenji Mori เป็นเพียงตัวอย่างในบทความ ไม่ใช่ใจความหลัก"
+            },
+            {
+              "id": "R80",
+              "prompt": "Where does the writer think readers may keep their old phones?",
+              "options": [
+                "In a drawer",
+                "In the garage",
+                "Under the bed",
+                "In the attic"
+              ],
+              "answer": 0,
+              "explanation": "ประโยคแรก That old mobile phone in your drawer..."
+            },
+            {
+              "id": "R81",
+              "prompt": "According to Kenji Mori, which phones are the most valuable?",
+              "options": [
+                "Phones from the 1990s",
+                "The newest smartphones",
+                "Phones with many old photos",
+                "Phones that have never been opened"
+              ],
+              "answer": 3,
+              "explanation": "the most valuable phones are those that have never been taken out of their boxes = ยังไม่เคยแกะกล่อง (paraphrase เป็น never been opened)"
+            }
+          ],
+          "passage": "That old mobile phone in your drawer might be worth more than you think. Collectors are paying up to $300 for some early models from the 1990s. A first-generation smartphone in its original box recently sold for more than $2,000 online.\n\n\"Online auctions have made it much easier for collectors to find each other,\" says Kenji Mori, 45, a collector in Osaka who owns more than 400 phones. He says the most valuable phones are those that have never been taken out of their boxes. \"A phone that has been used is worth much less, even if it still works perfectly.\""
+        },
+        {
+          "id": "taxi",
+          "label": "News Report",
+          "questions": [
+            {
+              "id": "R82",
+              "prompt": "Who announced that the driver will get his money back?",
+              "options": [
+                "A court",
+                "The driver's company",
+                "A government office",
+                "A newspaper"
+              ],
+              "answer": 2,
+              "explanation": "the city transport office announced = สำนักงานขนส่งของเมือง ซึ่งเป็นหน่วยงานรัฐ"
+            },
+            {
+              "id": "R83",
+              "prompt": "How did Mr. Somchai prove that he was not speeding?",
+              "options": [
+                "With recordings from his car camera",
+                "With help from a police officer",
+                "With statements from his passengers",
+                "With his taxi meter"
+              ],
+              "answer": 0,
+              "explanation": "he proved with recordings from his car's dashboard camera"
+            },
+            {
+              "id": "R84",
+              "prompt": "What is upsetting Mr. Somchai?",
+              "options": [
+                "He has to pay the fines again.",
+                "He must pay a fee to get his refund.",
+                "He lost his taxi license.",
+                "The office will not return any money."
+              ],
+              "answer": 1,
+              "explanation": "he must pay a 500-baht processing fee to receive the money และคำพูดของเขาเน้นว่าต้องจ่ายเงินเพื่อเอาเงินตัวเองคืน"
+            }
+          ],
+          "passage": "BANGKOK — A taxi driver who was wrongly fined for speeding three times last year will receive a refund of 6,000 baht, the city transport office announced on Monday. However, the office said that he must pay a 500-baht processing fee to receive the money.\n\nThe driver, Somchai Boonmee, 52, proved with recordings from his car's dashboard camera that he was driving under the speed limit each time. \"I did nothing wrong, and now I have to pay to get my own money back,\" he said."
+        },
+        {
+          "id": "earbuds",
+          "label": "Instructions",
+          "questions": [
+            {
+              "id": "R85",
+              "prompt": "What product are these instructions for?",
+              "options": [
+                "A smartwatch",
+                "A laptop computer",
+                "A portable speaker",
+                "Wireless earbuds"
+              ],
+              "answer": 3,
+              "explanation": "Place the earbuds in the charging case..."
+            },
+            {
+              "id": "R86",
+              "prompt": "What should you do if the light flashes red?",
+              "options": [
+                "Buy a new charging case",
+                "Charge it for three hours",
+                "Clean the metal contacts",
+                "Call the factory"
+              ],
+              "answer": 2,
+              "explanation": "If the light flashes red, remove the earbuds, clean the metal contacts with a dry cloth ตัวลวง three hours คือเวลาชาร์จครั้งแรก"
+            },
+            {
+              "id": "R87",
+              "prompt": "What should you do if cleaning does not solve the problem?",
+              "options": [
+                "Contact the store where you bought it",
+                "Send it back to the factory",
+                "Use a different USB cable",
+                "Throw it away"
+              ],
+              "answer": 0,
+              "explanation": "If the problem continues, contact the store where you bought the product (paraphrase)"
+            }
+          ],
+          "passage": "Place the earbuds in the charging case and close the lid. Then connect the case to a USB power adapter. The light on the front of the case turns red while the earbuds are charging and green when they are fully charged. Note: The first full charge may take up to three hours; this is normal.\n\nIf the light flashes red, the earbuds are not charging. Remove the earbuds, clean the metal contacts with a dry cloth, and place them back in the case. If the problem continues, contact the store where you bought the product."
+        },
+        {
+          "id": "memo",
+          "label": "Memorandum",
+          "questions": [
+            {
+              "id": "R88",
+              "prompt": "Why will the third floor be closed?",
+              "options": [
+                "The office is moving to a new building.",
+                "A new air-conditioning system will be installed.",
+                "The floor is being cleaned.",
+                "There will be a company holiday."
+              ],
+              "answer": 1,
+              "explanation": "because a new air-conditioning system will be installed"
+            },
+            {
+              "id": "R89",
+              "prompt": "How long will the third floor be closed?",
+              "options": [
+                "One day",
+                "Two days",
+                "Three days",
+                "One week"
+              ],
+              "answer": 2,
+              "explanation": "November 12 ถึง 14 = 3 วัน และ memo ยืนยันว่า during these three days"
+            },
+            {
+              "id": "R90",
+              "prompt": "What should staff without a laptop do?",
+              "options": [
+                "Contact the IT department by November 7",
+                "Work on another floor",
+                "Take a day off",
+                "Buy a laptop before November 11"
+              ],
+              "answer": 0,
+              "explanation": "Staff who do not have a company laptop should contact the IT department by November 7 to borrow one ตัวลวง November 11 คือวันที่ต้องนำแล็ปท็อปกลับบ้าน"
+            }
+          ],
+          "passage": "MEMORANDUM\n\nTO: All Siam Star Trading Staff\nFROM: Nipa Wongsa, Office Manager\nDATE: November 3\nRE: Third-floor closure\n\nPlease be informed that the third floor of our office will be closed from November 12 to November 14 because a new air-conditioning system will be installed.\n\nAll staff who work on the third floor will work from home during these three days. Please take your laptop and any documents you need home with you on November 11.\n\nStaff who do not have a company laptop should contact the IT department by November 7 to borrow one. Staff on other floors are not affected.\n\nThank you for your cooperation."
+        }
+      ]
+    }
+  ]
+}
