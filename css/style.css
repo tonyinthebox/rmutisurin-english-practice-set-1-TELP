@@ -261,3 +261,6 @@ input:focus-visible, .btn:focus-visible, .option:focus-within { outline: 2px sol
 .sec-score { grid-template-columns: 170px 1fr 50px; }
 @media (max-width: 600px) { .sec-score { grid-template-columns: 120px 1fr 44px; font-size: .9rem; } }
 
+
+/* ---------- designer credit ---------- */
+.footer .credit { display: block; margin-top: 8px; font-size: .8rem; line-height: 1.6; color: var(--muted); }
